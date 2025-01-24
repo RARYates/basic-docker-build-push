@@ -8,5 +8,3 @@ EXPOSE 80
 CMD ["apache2ctl", "-D", "FOREGROUND"]
 
 # This is a comment, and is ignored by the build process.
-
-# 
